@@ -1,0 +1,12 @@
+#gitignore UE4
+
+
+*.vs
+#/Projet_UE4_Bachelors/.vs
+/TrainingMulti/Binaries
+/TrainingMulti/Content/StarterContent
+/TrainingMulti/Intermediate
+/TrainingMulti/Saved
+
+*.sln
+
